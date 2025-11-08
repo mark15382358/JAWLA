@@ -1,17 +1,35 @@
-# jawla
+# JAWLA – Travel Agency App=
 
-A new Flutter project.
+## Overview
+**JAWLA** is a graduation project and a full travel agency platform that allows users to explore destinations, view trip details, and make bookings seamlessly.  
+The system consists of a **Flutter mobile application** and a **RESTful API backend**, providing a smooth and reliable booking experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Browse tours & travel destinations  
+- View trip details (pricing, itinerary, location, images)  
+- Book a trip (date, number of people, transportation options)  
+- Manage user bookings (My Bookings)  
+- Admin panel (via API) to manage trips & destinations  
+- Authentication system (Email/Password)  
+- Responsive UI & smooth UX  
+- Multi-platform support (Android + Web optional)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Jawla
+| Component | Technology |
+|---------|-----------|
+| Frontend (Mobile) | Flutter (Dart) |
+| API | RESTful API |
+| Data Format | JSON |
+| Communication | HTTP |
+| Authentication | Email / Password |
+| Storage | Local assets + server-hosted images |
+
+---
+
+## Project Structure
+
